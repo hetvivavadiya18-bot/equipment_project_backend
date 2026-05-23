@@ -4,7 +4,7 @@
     "description": "Complete API collection for Equipment Rental and Booking Management System",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
-  "variable": [{ "key": "base_url", "value": "http://localhost:8000", "type": "string" }],
+  "variable": [{ "key": "base_url", "value": "https://equipment-project-backend-1.onrender.com", "type": "string" }],
   "item": [
     {
       "name": "🔐 Common",
